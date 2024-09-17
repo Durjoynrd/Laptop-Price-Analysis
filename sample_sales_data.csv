@@ -1,0 +1,11 @@
+date,sales,region,category
+2024-09-01,1500.0,East,Electronics
+2024-09-02,2000.0,East,Electronics
+2024-09-03,1700.0,East,Electronics
+2024-09-04,,East,Electronics
+2024-09-05,1600.0,East,Electronics
+2024-09-01,3000.0,West,Furniture
+2024-09-02,2500.0,West,Furniture
+2024-09-03,,West,Furniture
+2024-09-04,2600.0,West,Furniture
+2024-09-05,2100.0,West,Furniture
